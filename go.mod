@@ -1,3 +1,3 @@
-module github.com/okteto/go-getting-started
+module github.com/chazgorman/go-getting-started
 
 go 1.13
