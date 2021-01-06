@@ -1,0 +1,3 @@
+deploy:
+  - okteto build -t chazgorman/hello-world:latest
+  - kubectl apply -f k8s

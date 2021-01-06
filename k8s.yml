@@ -13,7 +13,7 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: chazgorman/hello-world:golang
+      - image: chazgorman/hello-world:latest
         name: hello-world
 
 ---
